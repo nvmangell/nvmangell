@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi, I'm Angel
 
-<!--
-**nvmangell/nvmangell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚧 **Profile under active development** 🚧  
+I'm currently organizing and uploading projects from my coursework, internships, and personal work.
 
-Here are some ideas to get you started:
+### What’s coming soon
+- Distributed systems & cloud projects (Azure)
+- Backend APIs & observability tools
+- Security-focused coursework and labs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+In the meantime:
+- Resume available upon request
+- LinkedIn: https://linkedin.com/in/angelortizm1
+
+Thanks for stopping by — feel free to check back soon!
