@@ -2,7 +2,7 @@
 
 Backend engineer with a background in Computer Science and Mathematics.
 
-I'm currently building out this portfolio — three projects live now, more coming.
+> **Heads up:** I'm actively reorganizing this profile right now — some repos are being updated, a few new ones are on the way. Things are a work in progress but the projects below are real and functional. Reach out if you want to talk through anything.
 
 ---
 
@@ -27,7 +27,15 @@ Scheme interpreter written in C.
 
 ### Stack
 
-C# · .NET · Python · SQL · REST APIs · Azure · Monte Carlo · Distributed Systems
+C# · .NET · Python · SQL · REST APIs · Azure · Monte Carlo · Distributed Systems · AI/LLM tooling
+
+---
+
+### Currently
+
+- Reorganizing and updating project documentation
+- Exploring AI development tools (Claude, LLM APIs) and integrating them into my workflow
+- More projects coming — actively building
 
 ---
 
