@@ -17,7 +17,6 @@ More projects being cleaned up and published shortly.
 
 - **[chaos-engineering-simulations](https://github.com/nvmangell/chaos-engineering-simulations)** — distributed systems fault injection and observability experiments
 - **[scheme-interpreter-c](https://github.com/nvmangell/scheme-interpreter-c)** — Scheme interpreter written in C
-- **[holographic-heart](https://github.com/nvmangell/holographic-heart)** — a holographic heart I coded for my girlfriend
 
 ---
 
